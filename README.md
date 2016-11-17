@@ -4,7 +4,7 @@ Update 1.7.6 /// Faction War implemented, testing; Confirmed compatibility with 
 [20:55:58] [Server thread/INFO]: Enabling FactionsPro v1.7.6   ~   Source plugin works, to enable for n00bs:
 1. Get DevTools plugin for genisys or pocketmine.
 
-2. download this source code.
+2. Download this source code.
 
 3. Add it to "plugins" folder in your server files, inside a new folder that you can name "FactionPro_1.7.6".
 
