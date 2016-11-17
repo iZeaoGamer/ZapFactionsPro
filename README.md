@@ -1,7 +1,9 @@
 This is a custom build of FactionsPro, based on the version by @Tethered_.
 
 Update 1.7.6 /// Faction War implemented, testing; Confirmed compatibility with PurePerm 1.3.7 & PureChat 1.3.3.
-[20:55:58] [Server thread/INFO]: Enabling FactionsPro v1.7.6   ~   Source plugin works, to enable for n00bs:
+
+"[20:55:58] [Server thread/INFO]: Enabling FactionsPro v1.7.6" Source plugin works, to enable for n00bs:
+
 1. Get DevTools plugin for genisys or pocketmine.
 
 2. Download this source code.
