@@ -1,7 +1,7 @@
 name: FactionsPro
-author: Tethered_
-description: A Plugin For Easily Managing Factions
-version: 1.7.6
+author: (old code) - Tethered_; (new code) - EpicDF, Derpific
+description: Official Faction Manager for ZapNetwork
+version: 1.8.1
 main: FactionsPro\FactionMain
 api:
 - 1.12.0
