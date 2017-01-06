@@ -23,8 +23,8 @@ How-To Install FacsPro for N00bs:
 7. Something that looks like the following should appear:
 
 ////
-**[20:55:58] [Server thread/INFO]: Loading source plugin FactionsPro v1.7.6
-[20:55:58] [Server thread/INFO]: Enabling FactionsPro v1.7.6
+**[20:55:58] [Server thread/INFO]: Loading source plugin FactionsPro v1.x.x
+[20:55:58] [Server thread/INFO]: Enabling FactionsPro v1.x.x
 [20:55:58] [Server thread/NOTICE]: [FactionsPro] square root of plot size (25) must not be odd number! (Currently: 5)
 [20:55:58] [Server thread/NOTICE]: [FactionsPro] Available sizes: 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024
 [20:55:58] [Server thread/NOTICE]: [FactionsPro] Plot size set to 16**
