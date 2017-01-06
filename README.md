@@ -19,4 +19,5 @@ The .phar plugin works! How-To Install:
 4. If it says anywhere in the console "Loading plugin FactionsPro v1.8.1" then it worked! Enjoy :)
 
 (5. **If** it didn't show up in console during server loading, check for errors at the top of console history. If there is an error, please report to me here. If there is **no** error, you likely did not fully install the plugin or did not put it in the correct folder.)
-**Hint: Your plugins folder will be here 95% of the time: [Servertype](example:PocketMine)\Server\Plugins**
+**Hint: Your plugins folder will be here 95% of the time: PocketMine\Server\Plugins**
+               (Or whatever server program your server has ^^^^^^^^)
