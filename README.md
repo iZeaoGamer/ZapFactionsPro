@@ -2,10 +2,10 @@
 
 ### This is a custom build of FactionsPro, based on the version by @Tethered_.
 
-###### Update 1.8.1 /// PureChat 1.3.3 100% compatible, use {faction} before group names. Working on official .phar.
-###### Update 1.8.0 /// Enabled w/ PC1.4 code after heavy editing; testing alt. PureChat versions. Faction STR fix.
-###### Update 1.7.8 /// Usage with Pure Chat 1.4 confirmed, **MUST** use extra editing in PC1.4 code to correct.
-###### Update 1.7.6 /// Faction War implemented, testing; Confirmed compatibility with PurePerms 1.3.7.
+##### Update 1.8.1 /// PureChat 1.3.3 100% compatible, use {faction} before group names. Working on official .phar.
+##### Update 1.8.0 /// Enabled w/ PC1.4 code after heavy editing; testing alt. PureChat versions. Faction STR fix.
+##### Update 1.7.8 /// Usage with Pure Chat 1.4 confirmed, **MUST** use extra editing in PC1.4 code to correct.
+##### Update 1.7.6 /// Faction War implemented, testing; Confirmed compatibility with PurePerms 1.3.7.
 
 Source plugin is confirmed to work!
 How-To Install FacsPro for N00bs:
