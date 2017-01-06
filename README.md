@@ -18,7 +18,7 @@ How-To Install FacsPro for N00bs:
 
 4. Restart server.
 
-6. Go to server console, and type in "loadplugin FactionPro_1.8.1".
+6. Go to server console, and type in "loadplugin FactionsPro_1.8.1".
 
 7. Something that looks like the following should appear:
 
