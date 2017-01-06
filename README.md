@@ -8,26 +8,15 @@
 ##### Update 1.7.8 /// Usage with Pure Chat 1.4 confirmed, **MUST** use extra editing in PC1.4 code to correct.
 ##### Update 1.7.6 /// Faction War implemented, testing; Confirmed compatibility with PurePerms 1.3.7.
 
-Source plugin is confirmed to work!
-How-To Install FacsPro for N00bs:
+The .phar plugin works! How-To Install:
 
-1. Get DevTools plugin for genisys or pocketmine.
+1. Download most recent .phar from Release tab.
 
-2. Download this source code.
+2. Upload .phar plugin into the Plugins folder in your server files.
 
-3. Add it to "plugins" folder in your server files, inside a new folder that you can name "FactionsPro_1.8.1".
+3. Restart your server.
 
-4. Restart server.
+4. If it says anywhere in the console "Loading plugin FactionsPro v1.8.1" then it worked! Enjoy :)
 
-6. Go to server console, and type in "loadplugin FactionsPro_1.8.1".
-
-7. Something that looks like the following should appear:
-
-////
-**[20:55:58] [Server thread/INFO]: Loading source plugin FactionsPro v1.x.x
-[20:55:58] [Server thread/INFO]: Enabling FactionsPro v1.x.x
-[20:55:58] [Server thread/NOTICE]: [FactionsPro] square root of plot size (25) must not be odd number! (Currently: 5)
-[20:55:58] [Server thread/NOTICE]: [FactionsPro] Available sizes: 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024
-[20:55:58] [Server thread/NOTICE]: [FactionsPro] Plot size set to 16**
-////
-
+(5. **If** it didn't show up in console during server loading, check for errors at the top of console history. If there is an error, please report to me here. If there is **no** error, you likely did not fully install the plugin or did not put it in the correct folder.)
+**Hint: Your plugins folder will be here 95% of the time: [Servertype](example:PocketMine)\Server\Plugins**
