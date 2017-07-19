@@ -1,5 +1,5 @@
-# * *This plugin is incompatible with PMMP's 3.0 API and therefore cannot run on McPE 1.0. Sorry!* *
-# ZapFactions Pro ~~~ by EpicDF & Derpific
+# * *This plugin is now compatible with 3.0 API's, and will not work on older versions of PocketMine.
+# ZapFactions Pro ~~~ by EpicDF & Derpific, edited by Zeao.
 
 ### This is a custom build of FactionsPro, based on the version by @Tethered_.
 
